@@ -1,2 +1,2 @@
 # BlackJack
-blackjack game
+blackjack using python 
